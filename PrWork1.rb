@@ -34,4 +34,4 @@ elsif usr_action == "Scissors"
 else
   puts "I didnt understand your choice"
   puts "EX: Paper Scissors"
-  end
+end
